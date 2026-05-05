@@ -1,1 +1,13 @@
 
+/* styles.css */
+body {
+    font-family: Arial, sans-serif;
+    max-width: 600px;
+    margin: 20px auto;
+    padding: 10px;
+}
+
+input, button {
+    margin: 5px 0;
+    padding: 5px;
+}
